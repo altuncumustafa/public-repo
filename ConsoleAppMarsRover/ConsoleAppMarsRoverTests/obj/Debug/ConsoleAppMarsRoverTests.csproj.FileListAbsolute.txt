@@ -1,0 +1,17 @@
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\ConsoleAppMarsRoverTests.dll
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\ConsoleAppMarsRoverTests.pdb
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\ConsoleAppMarsRover.exe
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\ConsoleAppMarsRover.pdb
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\ConsoleAppMarsRover.exe.config
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\obj\Debug\ConsoleAppMarsRoverTests.csprojAssemblyReference.cache
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\obj\Debug\ConsoleAppMarsRoverTests.csproj.CoreCompileInputs.cache
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\obj\Debug\ConsoleAppMarsRoverTests.csproj.CopyComplete
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\obj\Debug\ConsoleAppMarsRoverTests.dll
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRoverTests\obj\Debug\ConsoleAppMarsRoverTests.pdb

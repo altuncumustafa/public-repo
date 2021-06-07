@@ -1,0 +1,7 @@
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRover\bin\Debug\ConsoleAppMarsRover.exe.config
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRover\bin\Debug\ConsoleAppMarsRover.exe
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRover\bin\Debug\ConsoleAppMarsRover.pdb
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRover\obj\Debug\ConsoleAppMarsRover.csprojAssemblyReference.cache
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRover\obj\Debug\ConsoleAppMarsRover.csproj.CoreCompileInputs.cache
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRover\obj\Debug\ConsoleAppMarsRover.exe
+C:\Users\BOL7SGB\source\repos\ConsoleAppMarsRover\ConsoleAppMarsRover\obj\Debug\ConsoleAppMarsRover.pdb
